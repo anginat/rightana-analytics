@@ -1,4 +1,4 @@
-module github.com/soyersoyer/rightana
+module github.com/anginat/rightana-analytics
 
 go 1.12
 
